@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Take a look at my [portfolio](https://petedegraw.com) for projects I've worked on and some info about me. (much of my code is in private repos in various git hosting companies)
+
 <!--
 **petedegraw/petedegraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
